@@ -1,4 +1,5 @@
 import hashlib
+import timeit
 
 
 def calcular_hash(arquivo):
@@ -38,6 +39,6 @@ def main():
     else:
         print("Atenção! O arquivo foi modificado")
 
-
-if __name__ == '__main__':
-    main()
+# Cálculo do tempo de excução do código
+tempo = timeit.timeit(main, number=1)
+print(f"\nTempo de execução: {tempo:.5f} s.\n")
