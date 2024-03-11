@@ -13,3 +13,7 @@ Onde:
 - Comando para verificar a integridade do arquivo (arquivo_original.txt) em relação ao hash gerado (hash_original.txt):
 
 >> if ((Get-FileHash -Algorithm SHA256 -Path .\arquivo_original.txt).Hash -eq (Get-Content -Raw -Path .\hash_original.txt).Trim()) { Write-Host "As strings são iguais." } else { Write-Host "As strings são diferentes." }
+
+## Simulação de Alteração e Verificação
+
+A partir deste novo tópico o arquivo já estará modificado.
