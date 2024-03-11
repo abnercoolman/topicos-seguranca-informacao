@@ -8,3 +8,5 @@ referência futura.
 
 - A função verificar_integridade compara o hash atual do arquivo com o hash
 salvo, indicando se a integridade foi mantida.
+
+(Este arquivo foi modificado)
