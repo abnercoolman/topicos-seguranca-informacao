@@ -1,10 +1,11 @@
-## Crie dois scripts separados python e pense em alguma forma de compartilhar a chave secreta entre os dois programas. Tente usar pelo menos uma das estratégias a seguir:
+## Questão 1
+Crie dois scripts separados python e pense em alguma forma de compartilhar a chave secreta entre os dois programas. Tente usar pelo menos uma das estratégias a seguir:
 
-### a. abrir um prompt no terminal e digitar/colar a chave
+a. abrir um prompt no terminal e digitar/colar a chave
 
-### b. transferir usando sockets
+b. transferir usando sockets
 
-### c. fazer com que os dois códigos leiam a chave a partir de um arquivo de texto
+c. fazer com que os dois códigos leiam a chave a partir de um arquivo de texto
 
 ---
 
