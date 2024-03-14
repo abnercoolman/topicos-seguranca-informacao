@@ -23,5 +23,5 @@ Para usar a solução, se certifique que o arquivo a ser encriptografado "arquiv
   ![](client01.png)
 
 - Resposta servidor:
-
+  
   ![](server02.png)
