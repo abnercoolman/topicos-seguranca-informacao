@@ -40,5 +40,5 @@ def main():
         print("Atenção! O arquivo foi modificado")
 
 # Cálculo do tempo de excução do código
-tempo = timeit.timeit(main, number=1)
+tempo = timeit.timeit(main, number=100)
 print(f"\nTempo de execução: {tempo:.5f} s.\n")

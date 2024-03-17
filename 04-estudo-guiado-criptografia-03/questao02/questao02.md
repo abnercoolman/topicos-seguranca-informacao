@@ -1,5 +1,7 @@
 ## Questão 2
 
+[_Voltar para página incial_](/README.md)
+
 Agora use uma lógica parecida não para transferir a chave, mas para transferir o arquivo. Um código deve criptografar o arquivo e abrir um socket. O outro código deve ler o arquivo pelo socket e decifrar o arquivo.
 
 ---
@@ -23,5 +25,5 @@ Para usar a solução, se certifique que o arquivo a ser encriptografado "arquiv
   ![](client01.png)
 
 - Resposta servidor:
-  
+
   ![](server02.png)

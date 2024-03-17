@@ -1,5 +1,7 @@
 ## Questão 4
 
+[_Voltar para página incial_](/README.md)
+
 Pesquise como alterar o tamanho do bloco de criptografia do algoritmo. Pesquise como fazer isso na documentação da biblioteca <a href="https://pycryptodome.readthedocs.io/en/latest/src/examples.html">Cipher</a>. Realize experimentos alterando o tamanho do bloco e observe: o tempo de criptografia aumentou ou diminuiu?
 
 ---
